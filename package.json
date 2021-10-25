@@ -1,5 +1,5 @@
 {
-  "name": "asincronismo",
+  "name": "Asincronismo con JS",
   "version": "1.0.0",
   "description": "Trabajos con asincronismo en Javascript",
   "main": "src/index.js",
